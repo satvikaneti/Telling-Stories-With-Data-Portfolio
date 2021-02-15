@@ -1,13 +1,13 @@
 # OECD Government Debt Graph: 
 <iframe src="https://data.oecd.org/chart/6gRe" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6gRe" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2016</a></iframe>
 
-#OECD Government Debt to GDP Ratio, Visualized
+# OECD Government Debt to GDP Ratio, Visualized
 
 An exercise to visualize Government Debt to GDP ratio using Flourish's grid charts visualization. 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5299602"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-#OECD Government Debt to GBP Ratio, Visualized 2
+# OECD Government Debt to GBP Ratio, Visualized 2
 
 For this visualization, I experimented with a bunch of different versions of this, including lines charts and geographic heat map style visualizations. Eventually, I chose to go with the a bubble chart, since this way, just the size of the bubble would give the viewer the same info as a line graph but much quicker. 
 
