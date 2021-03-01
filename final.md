@@ -37,7 +37,21 @@ My outline looks very similar to the way this write up is structured:
 
 # Sketches
 
-These are couple of the different ways that I'm hoping to show what's important to creating good stories and how they might translate to real world organizing: 
+These are couple of the different ways that I'm hoping to show what's important to creating good stories and how they might translate to real world organizing.
+
+### Story Format
+
+![First](Paper.telling_stories.9.png)
+
+![Second](Paper.telling_stories.12.png)
+
+### Examples of analysis
+
+![First](Paper.telling_stories.10.png)
+
+![Second](Paper.telling_stories.11.png)
+
+![Third](Paper.telling_stories.13.png)
 
 
 
