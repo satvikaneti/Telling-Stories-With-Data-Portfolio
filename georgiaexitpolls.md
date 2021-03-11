@@ -58,4 +58,22 @@ I asked two of my friends some questions about these two wireframes.
 1. I might clarify the title of the graph to reflect “percent of demographic voting for Biden...” to avoid confusion about how the graph is read
 2. The dots make it hard to read what each dot means, maybe a line connecting them or a bar? 
 
+### Overall feedback
+
+Overall, what I gleaned from the feedback is that the second graph of "Who Biden voters are..." seemed to make more sense to folks, and could be better used as political tools to gain information about voters. It asks questions like "why did people with incomes over $200k overwhelmingly vote for Biden?" and has insights such as "while white voters make up the majority of voters, Black women still more consistently showed up." So I decided to focus on those kinds of graphs, rather than the dot plots, for the final product. 
+
 # Final Product 
+
+For the final product, I focused on the majority answers in the different questions asked by the exit polls, and condensed it to three main questions - Who are Biden's voters? What do Biden voters think?, and What do Biden voters care about? 
+
+I used Tableau to make these visualizations. First I uploaded all of the data, and played with ways to make the bars more engaging - getting rid of all of the extraneous information was much more useful than coloring them all gray, and really quickly gives you a snapshot of who makes up the majority of Biden voters. 
+
+![first](georgia1.PNG)
+
+Then, I focused on the three issue questions - these I wanted to keep all of the other answer options other than the majority, because these questions ask voters to compare between choices. Here, I thought about keeping a bar chart, but it still felt too busy with all three questions. using the circle plot like this helped ease the eye a bit, while still drawing your attention immediately to the important piece. 
+
+![second](georgia2.PNG)
+
+# Conclusion
+
+Overall, this was a good exercise in taking plain, table like data and finding ways to gain information about it. One thing I had to focus on was who my audience was - once it clicked during the feedback stage that it was political strategists, the graphs that I wanted to make (to help them understand Biden's base better) was a much easier task. 
