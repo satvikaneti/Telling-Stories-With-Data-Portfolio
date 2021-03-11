@@ -59,7 +59,7 @@ During the user research phase after the first part of this project, I decided t
 
 My question, however, was still a little opaque, and I wasn't entirely sure what really could be gleaned from the data I was able to find. So I ended up making a quick R Shiny dashboard where my users could play with the data and help me suss out different ways to visualize it or help me find connections I was missing. This is a hard question to ask, and a hard connection to make (between narrative structure of a play and digital organizing), so I needed a little help. 
 
-<iframe src="https://satvika-neti.shinyapps.io/shakespearedata/" width: 100%; height: 500px;>
+<iframe src="https://satvika-neti.shinyapps.io/shakespearedata/" width="100%" height="400px"></iframe>
 
 
 
