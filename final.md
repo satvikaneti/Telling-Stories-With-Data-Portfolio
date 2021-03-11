@@ -53,6 +53,14 @@ These are couple of the different ways that I'm hoping to show what's important 
 
 ![Third](Paper.telling_stories.13.png)
 
+# Storyboards and Wireframes 
+
+During the user research phase after the first part of this project, I decided to refocus onto Shakespeare plays instead of movie databases. The reasons for this was multi-fold: it was brought up that movies have a lot more to them than the script can identify (acting, props, music, etc) that would make them "good," and plays (especially Shakesperian plays, that usually played very minimal) have a lot less going on outside of the script; Shakespeare plays all follow a very basic 5 act structure that follows the structure of a digital campaign pretty well; and the data for Shakespeare plays tends to be a little easier to find pre-processed. Shakespeare plays also are usually seen as an "everyman" kind of play - he invented new, new ways of doing things, and iambic pentameter is always written about as holding the human heartbeat within its words. Given digital organizing's role as the "heartbeat" so to speak of issue campaigns, the parallel makes sense to draw. 
+
+My question, however, was still a little opaque, and I wasn't entirely sure what really could be gleaned from the data I was able to find. So I ended up making a quick R Shiny dashboard where my users could play with the data and help me suss out different ways to visualize it or help me find connections I was missing. This is a hard question to ask, and a hard connection to make (between narrative structure of a play and digital organizing), so I needed a little help. 
+
+<iframe src="https://satvika-neti.shinyapps.io/shakespearedata/">
+
 
 
 
