@@ -63,6 +63,8 @@ My question, however, was still a little opaque, and I wasn't entirely sure what
 
 I also created a [draft preview storyboard on Shorthand](https://shorthand.com/organisations/JSrgFWI7zn/stories/XNpz8VehDO) to share with them, but this ended up changing a lot through the process so it looks different now (and a lot emptier), since I've decided to restructure a good chunk of it. 
 
+<iframe src="https://preview.shorthand.com/ChLXnTktQROe7IBF" width="100%" height="800px"></iframe>
+
 ## User Research 
 
 I then sent some friends this google feedback form with a short overview of the project and some questions I had about it, and also got some feedback from classmates during the critique. I picked the people to send it to from a mix of folks with experience in Shakespeare/storytelling but not data, experience in data but not Shakespeare/storytelling, and friends that didn't really have a background in either but just wanted to help me out. This was helpful to get a wide range of viewpoints and feedback from different perspectives. 
