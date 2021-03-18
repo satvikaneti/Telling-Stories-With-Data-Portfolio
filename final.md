@@ -10,8 +10,10 @@ A lot of the feedback I got was that there was too much data to focus on (so cut
 
 ### Part 3
 
-See the final verison here: https://carnegiemellon.shorthandstories.com/what-can-shakespeare-tell-us-about-digital-organizing-/index.html 
+See the final verison here: 
 Data sources: [Kaggle Shakespeare dataset](https://www.kaggle.com/kingburrito666/shakespeare-plays), [Shakespeare's Most Popular Plays](http://www.shakespeareances.com/dialogues/commentary/Bard_Board_Popularity-171012.html) 
+
+<iframe src="https://carnegiemellon.shorthandstories.com/what-can-shakespeare-tell-us-about-digital-organizing-/index.html" width="100%" height="800px"></iframe>
 
 For the last part of this final project, I ended up making a bunch of visualizations on Tableau (instead of R, like I had previously). But this time instead of just throwing the data into it and seeing what happened, I in particular wanted to answer some of my own questions about digital organizing structure: What does a good beginning look like? How often do you ask for things like money or volunteering? How do you handle multiple asks, or multiple viewpoints in your own campaign? 
 
