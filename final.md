@@ -10,7 +10,8 @@ A lot of the feedback I got was that there was too much data to focus on (so cut
 
 ### Part 3
 
-See the final verison here: 
+See the final verison below. 
+
 Data sources: [Kaggle Shakespeare dataset](https://www.kaggle.com/kingburrito666/shakespeare-plays), [Shakespeare's Most Popular Plays](http://www.shakespeareances.com/dialogues/commentary/Bard_Board_Popularity-171012.html) 
 
 <iframe src="https://carnegiemellon.shorthandstories.com/what-can-shakespeare-tell-us-about-digital-organizing-/index.html" width="100%" height="800px"></iframe>
