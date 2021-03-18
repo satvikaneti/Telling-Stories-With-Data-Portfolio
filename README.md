@@ -23,3 +23,7 @@ I'm also particularly interested in thinking about which stories to tell, and le
 This is where the final portfolio will go! 
 
 [OECD Visualizations](/dataviz2.md)
+
+[Georgia Exit Polls Visualization](/georgiaexitpolls.md)
+
+[Final Project: What can Shakespeare tell us about digital organizing?](/final.md)
